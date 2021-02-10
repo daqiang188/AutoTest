@@ -1,2 +1,3 @@
 nice to meet you
 这是合并分支的操作
+master增加一行冲突的文件
